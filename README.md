@@ -10,3 +10,9 @@ for example
 সযৌং सयौं থুঁগা थुँगा ফূলকা फूलका হামী, हामी, এউটৈ एउटै মালা माला নেপালী नेपाली
 
 সার্বভৌম सार्वभौम ভৈ भै ফৈলিএকা, फैलिएका, মেচী-মহাকালী। मेची-महाकाली।
+
+Code Utilized from
+
+https://www.npmjs.com/package/sanscript and
+
+https://github.com/iamtravisw/replacer
