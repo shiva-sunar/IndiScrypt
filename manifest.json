@@ -1,0 +1,19 @@
+{
+ "manifest_version": 2,
+ "name": "ShivaName",
+ "description": "ShivaDescription",
+ "version": "0.0.0.0",
+ "author": "Shiva Sunar",
+ "browser_action": {
+   // "default_icon": "replacer.png",
+   "default_title": "ShivaTitle"
+ },
+ "content_scripts": [
+  {
+    "matches": ["<all_urls>"],
+    "js": ["contentScript.js"],
+    "exclude_globs": [ "*options*"]
+  }
+],
+ "permissions": ["activeTab"]
+}
